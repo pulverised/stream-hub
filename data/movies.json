@@ -1,0 +1,36 @@
+[
+{
+"title":"Stranger Things",
+"category":"Trending",
+"platform":"Netflix",
+"poster":"https://via.placeholder.com/250x350"
+},
+
+{
+"title":"The Mandalorian",
+"category":"Trending",
+"platform":"Disney+",
+"poster":"https://via.placeholder.com/250x350"
+},
+
+{
+"title":"The Boys",
+"category":"Action",
+"platform":"Prime Video",
+"poster":"https://via.placeholder.com/250x350"
+},
+
+{
+"title":"Barry",
+"category":"Comedy",
+"platform":"HBO Max",
+"poster":"https://via.placeholder.com/250x350"
+},
+
+{
+"title":"Only Murders In The Building",
+"category":"Comedy",
+"platform":"Hulu",
+"poster":"https://via.placeholder.com/250x350"
+}
+]
